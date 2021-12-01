@@ -1,0 +1,57 @@
+.blanquito{
+    background-color: rgba(240, 248, 255, 0.89);
+    box-shadow: 3px 3px 3px 3px rgba(0, 0, 0, 0.3);
+    width: 30%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 15px;
+    margin-top: 10rem;
+    padding-bottom: 30px;
+}
+select, .fecha, .datos{
+    width: 60%;
+}
+.ingresar{
+    text-align: center;
+    margin-left: 0;
+}
+button{
+    width: 40%;
+    margin-left: 20px;
+    margin-right: 20px;
+    align-items: center;
+}
+hr{
+    margin-top: 35px;
+}
+.inicio{
+    font-weight: bold;
+    font-size: 36px;
+    margin-left: 5%;
+    margin-right: 5%;
+    color: rgb(10, 4, 0);
+}
+.consultas{
+    background-color: rgba(240, 248, 255, 0.89);
+    box-shadow: 3px 3px 3px 3px rgba(0, 0, 0, 0.3);
+    height: auto;
+    border-radius: 15px;
+    margin-top: 10rem;
+    padding-bottom: 30px;
+    display: inline-block;
+    width: 30%;
+    margin-left: 2rem;
+    margin-top: 3rem;
+}
+.volver{
+    width: 100px;
+    color: rgb(255, 244, 230);
+    font-weight: bold;
+    font-size: 16px;
+    margin-top: 30px;
+    border-radius: 7px;
+    border-color: transparent;
+    background: linear-gradient(179deg, #5fb2fff1, rgba(45, 201, 221, 0.911), #5fb2fff1);
+    box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.2);
+}

@@ -1,0 +1,81 @@
+body{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background: url(https://somoskudasai.com/wp-content/uploads/2021/02/portada_horimiya-22.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+.blanco{
+    background-color: rgba(240, 248, 255, 0.89);
+    box-shadow: 3px 3px 3px 3px rgba(0, 0, 0, 0.3);
+    width: 35%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 15px;
+    margin-top: 10rem;
+    padding-bottom: 30px;
+}
+.centrar{
+    padding: 1px;
+}
+.inicio{
+    font-weight: bold;
+    font-size: 36px;
+    margin-left: 13%;
+    margin-right: 13%;
+    color: rgb(10, 4, 0);
+}
+.ingresar{
+    text-align: left;
+    margin-left: 12%;
+    font-size: 14px;
+    font-weight: bold;
+    color: rgb(32, 32, 32);
+}
+.datos{
+    border-right: transparent;
+    border-left: transparent;
+    border-top: transparent;
+    border-bottom-color: #559fe4f1;
+    background-color: transparent;
+    width: 75%;
+    margin-right: auto;
+    outline: none;
+}
+.sesion{
+    color: rgb(255, 244, 230);
+    font-weight: bold;
+    font-size: 16px;
+    margin-top: 30px;
+    border-radius: 7px;
+    border-color: transparent;
+    background: linear-gradient(179deg, #5fb2fff1, rgba(45, 201, 221, 0.911), #5fb2fff1);
+    box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.2);
+}
+.cambiar{
+    font-size: 12px;
+    color: rgb(43, 43, 43);
+    text-align: right;
+    padding-bottom: 20px;
+    padding-top: 15px;
+    padding-right: 7%;
+}
+hr{
+    color: rgba(77, 77, 77, 0.9);
+    margin-top: 15px;
+    width: 55%;
+}
+.regreso{
+    background-color: rgba(240, 248, 255, 0.89);
+    box-shadow: 3px 3px 3px 3px rgba(0, 0, 0, 0.3);
+    width: 16%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 15px;
+    margin-top: 10rem;
+    padding-bottom: 30px;
+}
